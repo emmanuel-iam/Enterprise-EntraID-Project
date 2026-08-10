@@ -48,7 +48,7 @@ The leadership team has asked the Identity and Access Management team to design 
                ├── Desktop Support Specialist          └── Budget Analyst              |      ├── Business Development Representative  ├── Logistics Specialist
                └── IT Support Specialist                                               |      └── Sales Coordinator                    ├── Procurement Specialist
                                                                                        │                                               └── Office Administrator 
-                                                                                                                                             👥 HR (8)                👥 HR (8)                                     
+                                                                                   👥 HR (8)                                                          👥 HR (8)                👥 HR (8)                                     
                                                                                    HR Manager
                                                                                        │
                                                                                        ├── Senior HR Specialist
